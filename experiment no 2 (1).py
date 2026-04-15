@@ -6,7 +6,7 @@ print(sum)
 
 #queation no 2
 a=10
-b="parikshit"
+b="OM"
 c=10.97
 d=(100,200)
 e=True
